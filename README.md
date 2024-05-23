@@ -1,17 +1,11 @@
-# Nixvim template
+# SturmVim 2.0
 
-This template gives you a good starting point for configuring nixvim standalone.
-
-## Configuring
-
-To start configuring, just add or modify the nix files in `./config`.
-If you add a new configuration file, remember to add it to the
-[`config/default.nix`](./config/default.nix) file
-
-## Testing your new configuration
-
-To test your configuration simply run the following command
-
+## Details
+I have yet to actually write any documentation. as of right now all you need to know is the following command to run my nixvim config after having cloned it
 ```
 nix run .
+```
+you can also run this just to test it out.
+```
+nix run 'github:Sturmfahrt/StormNixVim'
 ```
