@@ -9,6 +9,7 @@
     ./opts.nix
     ./telescope.nix
     ./tree.nix
+    ./treesitter.nix
   ];
 
   colorschemes.catppuccin = {
