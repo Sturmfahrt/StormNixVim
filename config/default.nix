@@ -10,6 +10,7 @@
     ./telescope.nix
     ./tree.nix
     ./treesitter.nix
+    ./discord.nix
   ];
 
   colorschemes.catppuccin = {
