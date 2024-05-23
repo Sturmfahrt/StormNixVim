@@ -8,6 +8,7 @@
     ./lualine.nix
     ./opts.nix
     ./telescope.nix
+    ./tree.nix
   ];
 
   colorschemes.catppuccin = {
