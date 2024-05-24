@@ -1,11 +1,10 @@
 {
-    options = {
+    opts = {
       number = true;
       relativenumber = true; # Show relative line numbers
       numberwidth = 4;
       shiftwidth = 2; # Tab width should be 2
       expandtab = true;
-      signcolum = "yes";
       wrap = true;
       updatetime = 300;
       undofile = true;
@@ -14,6 +13,5 @@
       splitright = true;
       splitbelow = true;
       fileencoding = "utf-8";
-      mapleader = " ";
     };
 }
