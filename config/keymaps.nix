@@ -22,5 +22,10 @@
       key = "<C-H>";
       action = "<C-W><C-H>";
     }
+    {
+      mode = "n";
+      key = "<leader>tc";
+      action = ":ToggleTerm size=20 direction=horizontal<CR>";
+    }
   ];
 }
