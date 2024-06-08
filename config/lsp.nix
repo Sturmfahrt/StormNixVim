@@ -12,9 +12,12 @@
           installCargo = false;
           installRustc = false;
         };
-	    nixd = {
-	      enable = true;
-	    };
+        nixd = {
+          enable = true;
+        };
+        gdscript = {
+          enable = true;
+        };
     };
   };
 }
